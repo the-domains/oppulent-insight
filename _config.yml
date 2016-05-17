@@ -1,0 +1,14 @@
+layout_spectrum: 0.8422812193166465
+typography_spectrum: 0.23366887820884585
+color:
+  brandStrength: 0.08252367842942476
+  lightness: 0.8914367079269141
+  saturation: 0.5725926260929555
+  rhythmicContrast: 0.9719006987288594
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: oppulent insight
